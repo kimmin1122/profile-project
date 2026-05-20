@@ -1,14 +1,14 @@
 export const profile = {
-  name: "임성민(林聖民)",
-  role: "인생교수의 AI 연구소 대표 · 컴퓨터공학박사",
-  eyebrow: "👨🏻‍🏫 인생교수",
+  name: "김 민",
+  role: "정보보안학과 4학년",
+  eyebrow: "👨🏻‍🎓 배재대학교",
   description:
-    "누군가의 인생길에 빛이 되어, 배움으로 희망을 만드는 교육자",
-  organization: "인생교수의 AI 연구소",
-  degree: "컴퓨터공학박사, AI 전공",
-  focus: "AI · IT 전문 교육 · 튜터링 · 특강",
+    "보안 전문성을 갖춘 개발자로 성장하기 위해 끊임없이 학습하는 학생",
+  organization: "배재대학교",
+  degree: "정보보안학과, 4학년",
+  focus: "정보보안 · 개발 · 네트워크 보안",
   links: {
-    email: "mailto:lifeprof@naver.com",
+    email: "mailto:kim.min@paejae.ac.kr",
     career: "#career"
   }
 } as const;
