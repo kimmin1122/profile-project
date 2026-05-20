@@ -8,7 +8,7 @@ const heroLinkText = {
 } as const;
 
 const heroLinkLabels = {
-  email: "lifeprof@naver.com으로 이메일 보내기",
+  email: "kim.min@paejae.ac.kr으로 이메일 보내기",
   career: "상세 이력 섹션으로 이동"
 } as const;
 
